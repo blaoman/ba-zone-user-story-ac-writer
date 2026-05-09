@@ -97,7 +97,7 @@ MIT License — xem file [LICENSE](LICENSE)
 
 ## 👤 Tác giả & Attribution
 
-Phát triển bởi **Phúc NT** · [BA Zone](https://bazone.vn) · Digital School  
+Phát triển bởi **Phúc NT** · [BA Zone](https://bazone.org) · Digital School  
 
 Đây là sp của **BA Zone**. Bạn được tự do sử dụng và fork repo này
 theo điều khoản MIT License, với điều kiện **giữ nguyên thông tin tác giả** 
@@ -107,4 +107,5 @@ Vui lòng **không** xóa attribution hoặc tái phân phối repo này dưới
 mà không có sự cho phép của BA Zone.
 
 ---
-*BA Zone · Digital School — Cộng đồng BA/PO Việt Nam*
+*BA Zone — Cộng đồng BA/PO Việt Nam*
+https://bazone.org/
