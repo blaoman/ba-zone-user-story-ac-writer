@@ -99,7 +99,7 @@ MIT License — xem file [LICENSE](LICENSE)
 
 Phát triển bởi **Phúc NT** · [BA Zone](https://bazone.vn) · Digital School  
 
-Đây là tài sản trí tuệ của **BA Zone**. Bạn được tự do sử dụng và fork repo này
+Đây là sp của **BA Zone**. Bạn được tự do sử dụng và fork repo này
 theo điều khoản MIT License, với điều kiện **giữ nguyên thông tin tác giả** 
 (Phúc NT / BA Zone) trong mọi bản phân phối lại.
 
