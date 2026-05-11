@@ -47,7 +47,7 @@
 
 - [ ] Mỗi AC chỉ test 1 scenario duy nhất
 - [ ] Given/When/Then đều đo lường được (có số liệu, trạng thái rõ)
-- [ ] Không chứa từ mơ hồ: "nhanh", "phù hợp", "user-friendly"
+- [ ] Không chứa từ mơ hồ: "nhanh", "phù hợp", "user-friendly", "An toàn"
 - [ ] Không chứa logic implementation (API name, DB table, code)
 - [ ] Không mô tả UI cụ thể (màu, vị trí pixel)
 - [ ] Đã có tối thiểu: 1 happy + 1 edge + 1 negative
