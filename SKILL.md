@@ -112,6 +112,7 @@ Trình bày theo format:
 2. INVEST Self-check (bảng đánh giá 6 tiêu chí với ✅/⚠️)
 3. Acceptance Criteria (đánh số AC1, AC2, AC3...)
 4. Notes (nếu có dependency, assumption, hoặc câu hỏi cần PO làm rõ)
+5. Yêu cầu xem lại toàn bộ tài liệu trước khi xuất tài liệu. Hỏi định dạng tài liệu để user xác nhận trước khi xuất. 
 
 ## Anti-patterns - KHÔNG làm những điều sau
 
